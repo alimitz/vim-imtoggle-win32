@@ -1,4 +1,4 @@
-# vim-imtoggle-win32
+# vim-imtoggle-windows
 vim plugin for change input methods under win32 os
 
 By this python script, it can automatically change your input methods between toggling with insert mode and normal mode.
