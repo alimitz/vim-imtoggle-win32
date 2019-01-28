@@ -1,5 +1,5 @@
 # vim-imtoggle-windows
-vim plugin for change input methods under win32 os
+vim plugin for change input methods under windows os
 
 By this python script, it can automatically change your input methods between toggling with insert mode and normal mode.
 
@@ -18,3 +18,5 @@ By this python script, it can automatically change your input methods between to
    Then modify "Class Lan(emun)" items of    im.py relating to your own os.
 6. If nessary, you need type "im.py pwin", to list out all window title, 
    then select the vim one, modify win32gui.FindWindow('Vim',None).
+
+Enjoy.
